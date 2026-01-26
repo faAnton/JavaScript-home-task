@@ -43,8 +43,3 @@ function updateGallery(galleryObj, name, newValue) {
   }
 }
 
-updateGallery(gallery, 'Mona Lisa', 'Leonardo da Vinci, 1503-1506')
-console.log(gallery)
-updateGallery(gallery, 'The Persistence of Memory', 'Salvador Dali')
-console.log(gallery)
-
